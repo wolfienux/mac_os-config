@@ -9,6 +9,7 @@ if ! command -v brew > /dev/null; then
 fi
 
 brew install asciinema
+brew install adb
 brew install bash
 brew install bash-completion
 brew install bat
@@ -21,6 +22,7 @@ brew install exa
 brew install exiftool
 brew install fd
 brew install fzf
+brew install go
 brew install git
 brew install git-delta
 brew install git-sizer
@@ -68,4 +70,6 @@ brew install git-extras
 brew install curl
 brew install pyenv
 brew install go
-brew install macvim", link: false
+brew install macvim
+brew install mtr
+
