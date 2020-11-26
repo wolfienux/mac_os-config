@@ -8,38 +8,12 @@ if ! command -v mas > /dev/null; then
   exit 1
 fi
 
-# 1Password
-mas install 443987910
-
-# Acorn
-mas install 1019272813
-
-# AquaPath
-mas install 424425207
 
 # Bear
 mas install 1091189122
 
-# Cocoa JSON Editor
-mas install 442160773
-
 # Contrast
 mas install 1254981365
-
-# DaisyDisk
-mas install 411643860
-
-# GarageBand
-mas install 682658836
-
-# Hand Mirror
-mas install 1502839586
-
-# iMovie
-mas install 408981434
-
-# Kaleidoscope
-mas install 587512244
 
 # Key Codes
 mas install 414568915
@@ -47,26 +21,11 @@ mas install 414568915
 # Keymou
 mas install 449863619
 
-# Keynote
-mas install 409183694
-
 # Kindle
 mas install 405399194
 
 # Leech
 mas install 1101735327
-
-# LimeChat
-mas install 414030210
-
-# Marked 2
-mas install 890031187
-
-# Medis
-mas install 1063631769
-
-# Meeter
-mas install 1510445899
 
 # MindNode
 mas install 1289197285
@@ -80,35 +39,8 @@ mas install 419330170
 # Name Mangler
 mas install 603637384
 
-# Numbers
-mas install 409203825
-
-# OmniFocus 3
-mas install 1346203938
-
-# OmniOutliner
-mas install 404478020
-
-# Pages
-mas install 409201541
-
 # Patterns
 mas install 429449079
-
-# PDFpenPro
-mas install 403758325
-
-# Pixelmator
-mas install 407963104
-
-# Paletter
-mas install 1494948845
-
-# Primitive
-mas install 1175103038
-
-# Shush
-mas install 496437906
 
 # Slack
 mas install 803453959
@@ -118,3 +50,93 @@ mas install 1528890965
 
 # WiFi Explorer
 mas install 494803304
+
+#  Xcode 
+mas install  497799835
+
+#  Things 
+mas install  904280696
+
+#  Save to Pocket 
+mas install  1477385213
+
+#  Tot 
+mas install  1491071483
+
+#  Drafts 
+mas install  1435957248
+
+#  The Ebook Converter 
+mas install  1081457679
+
+#  Instapaper Save 
+mas install  1481302432
+
+#  Flycut 
+mas install  442160987
+
+#  Notability 
+mas install  736189492
+
+#  Fantastical 
+mas install  975937182
+
+#  LastPass 
+mas install  926036361
+
+#  Amphetamine 
+mas install  937984704
+
+#  Button Shortcuts 
+mas install  1155342767
+
+#  Dynamo 
+mas install  1445910651
+
+#  Apple Configurator 2 
+mas install  1037126344
+
+#  Spark 
+mas install  1176895641
+
+#  Magnet 
+mas install  441258766
+
+#  LINER 
+mas install  1463530746
+
+#  PocketTube 
+mas install  1533703891
+
+#  Evernote Web Clipper 
+mas install  1481669779
+
+#  Blue Canoe Pronunciation Dictionary 
+mas install  1533710506
+
+#  Slack 
+mas install  803453959
+
+#  Instapaper 
+mas install  288545208
+
+#  Skitch 
+mas install  425955336
+
+#  Bear 
+mas install  1091189122
+
+#  Keyboard Shortcuts for Kahoot 
+mas install  1534465095
+
+#  Noto 
+mas install  1459055246
+
+#  GoodNotes 
+mas install  1444383602
+
+#  Tidy Mind 
+mas install  1526174269
+
+#  Speechify 
+mas install  1456658105
