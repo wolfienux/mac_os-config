@@ -123,20 +123,24 @@ mas install  288545208
 #  Skitch 
 mas install  425955336
 
-#  Bear 
+# Bear 
 mas install  1091189122
 
-#  Keyboard Shortcuts for Kahoot 
+# Keyboard Shortcuts for Kahoot 
 mas install  1534465095
 
-#  Noto 
+# Noto 
 mas install  1459055246
 
-#  GoodNotes 
+# GoodNotes 
 mas install  1444383602
 
-#  Tidy Mind 
+# Tidy Mind 
 mas install  1526174269
 
-#  Speechify 
+# Speechify 
 mas install  1456658105
+
+# Annotate
+mas install 918207447 
+
