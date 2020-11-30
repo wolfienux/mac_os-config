@@ -1,5 +1,6 @@
 #! /usr/bin/env bash
 
+brew tap homebrew/cask-drivers
 # Installs Homebrew Casks.
 
 brew cask install alfred
