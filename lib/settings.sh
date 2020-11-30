@@ -16,7 +16,6 @@ export MRI=2.7.2
 
 # Repositories
 export REPO_RUBY_SETUP=13.3.0
-export REPO_YARN_SETUP=1.7.0
 export REPO_SUBLIME_TEXT_SETUP=14.2.0
 export REPO_DOTFILES=40.2.0
 
@@ -28,16 +27,8 @@ export DOCKER_APP_NAME="Docker.app"
 export DOCKER_VOLUME_NAME="Docker"
 export DOCKER_APP_URL="https://download.docker.com/mac/stable/Docker.dmg"
 
-export GIT_FILTER_REPO_APP_NAME="git-filter-repo"
-export GIT_FILTER_REPO_APP_URL="https://raw.githubusercontent.com/newren/git-filter-repo/master/git-filter-repo"
-
-export HAND_BRAKE_CLI_APP_NAME="HandBrakeCLI"
-export HAND_BRAKE_CLI_VOLUME_NAME="HandBrakeCLI-1.3.0"
-export HAND_BRAKE_CLI_APP_URL="https://download2.handbrake.fr/1.3.0/HandBrakeCLI-1.3.0.dmg"
-
-export SONOS_APP_NAME="Sonos S1 Controller.app"
-export SONOS_VOLUME_NAME="Sonos"
-export SONOS_APP_URL="https://www.sonos.com/redir/controller_software_mac"
+export CISCO_PACKET_TRACER="PacketTracer731_mac.app"
+export CISCO_PACKET_TRACER_URL="https://www.netacad.com/portal/resources/file/d5145a72-b50a-46c6-8703-77d8a1009fd4"
 
 # Application Extensions
 export VIM_EXTENSION_ROOT="$HOME/.vim/bundle"
